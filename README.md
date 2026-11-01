@@ -1,7 +1,7 @@
----2026-11-01最新消息---
+---2026-11-01最新消息---<br/>
 [**Synology-SA-24:20 DSM (PWN2OWN 2024)**](https://www.synology.cn/zh-cn/security/advisory/Synology_SA_24_20)这个漏洞出现，不建议NAS系统直接保留在公网。<br/>
 可通过加密型VPN访问内网设备，Padavan支持Open VPN，关联natmap参考[**RM2100_Padavan_Natmap_OpenVPN**](https://github.com/Dave-library/RM2100_Padavan_Natmap_OpenVPN/)<br/>
----2026-11-01最新消息---
+---2026-11-01最新消息---<br/>
 # natmap 端口映射与自动维护系统
 
 > 专为小米/红米路由器（Padavan/老毛子固件）设计的 NAT 穿透与自动维护方案，支持端口映射、进程保活、防火墙自动修复、微信推送和日志轮转。
